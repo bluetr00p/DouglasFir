@@ -11,3 +11,6 @@ We want to make a package manager that works for all languages.
 * Add npm support
 * Make own json file organization
 * Add yarn fileformat support
+* Add Cocopods/Swift support
+* Add Gem support
+* Add Maven/Gradle support
